@@ -1,7 +1,7 @@
 {
     "name": "markbaker/complex",
     "type": "library",
-    "description": "PHP Class for working with complex numbers",
+    "description": "PHP Class for working with complex numbers supporting PHP 5.5.9",
     "keywords": ["complex", "mathematics"],
     "homepage": "https://github.com/MarkBaker/PHPComplex",
     "license": "MIT",
